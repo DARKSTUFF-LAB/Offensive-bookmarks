@@ -1,4 +1,4 @@
-# Offensive Bookmarks
+# Offensive Bookmark
 
 ## A collection of bookmarks for penetration testers, bug bounty hunters,  malware developers, reverse engineers and anyone who is just interested in infosec topics.
 
